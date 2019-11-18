@@ -2,7 +2,7 @@
 
 DiscordLobby (GameLobby) is a member-oriented system for managing and creating dynamic and customizable channels within a server. 
 
-# Inviting the bot as hosted by Zonee
+# Inviting the bot as hosted by me
 
 Use this link: https://discordapp.com/oauth2/authorize?client_id=446798103866245120&scope=bot&permissions=8
 
